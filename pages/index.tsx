@@ -17,6 +17,7 @@ function Home() {
       </Head>
 
       <main className={styles.main}>
+        <h1> Using page Router </h1>
         <h1>Welcome to Area 51</h1>
         <h2>Soldiers</h2>
 
