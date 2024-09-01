@@ -10,11 +10,4 @@ Next.js Page Router is the built-in routing system that automatically turns file
 - **Nested Routes**: Organize your application with nested routes for better structure.
 - **SSR and SSG**: Leverage server-side rendering (SSR) and static site generation (SSG) seamlessly.
 
-## Getting Started
 
-To get started with the Next.js Page Router, create a new Next.js project:
-
-```bash
-npx create-next-app my-app
-cd my-app
-```
